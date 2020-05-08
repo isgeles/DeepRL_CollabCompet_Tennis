@@ -30,14 +30,14 @@ The observation space consists of 24 dimensions corresponding to the position an
 ### Files in this Repository
                     
     .
-    ├── checkpoint_actor_64x64.pth          # stored weights for trained actor network (2 hidden 128 unit layers)
+    ├── checkpoint_actor_64x64.pth            # stored weights for trained actor network (2 hidden 64 unit layers)
     ├── checkpoint_actor.pth                  # latest stored weights for trained actor network
-    ├── checkpoint_critic_64x64.pth         # stored weights for trained critic network (2 hidden 128 unit layers)
+    ├── checkpoint_critic_64x64.pth           # stored weights for trained critic network (2 hidden 64 unit layers)
     ├── checkpoint_critic.pth                 # latest stored weights for trained critic network
-    ├── Tennis.ipynb                          # main code for training and testing the agent
     ├── ddpg_agent.py                         # agent to interact and learn from environment
     ├── model.py                              # neural network model (in Pytorch)
     ├── Report.pdf                            # report of the implementation and details of the learning algorithm
+    ├── Tennis.ipynb                          # main code for training and testing the agent
     └── README.md
 
 
