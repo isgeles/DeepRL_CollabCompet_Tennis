@@ -6,7 +6,8 @@
 # Deep RL Collaboration and Competition Tennis
 Udacity Deep Reinforcement Learning Nanodegree, third project "Collaboration and Competition".
 
-# Project 3: Collaboration and Competition
+# Project 3: Collaboration and Competition.
+The learning algorithm to solve the task was a DDPG controlling both players and trained via self-play and shared replay buffer.
 
 ### Environment
 
