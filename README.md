@@ -7,7 +7,7 @@
 Udacity Deep Reinforcement Learning Nanodegree, third project "Collaboration and Competition".
 
 # Project 3: Collaboration and Competition.
-The learning algorithm to solve the task was a DDPG controlling both players and trained via self-play and shared replay buffer.
+The learning algorithm to solve the task was a DDPG controlling both players and trained via self-play and shared replay buffer, for details see the report.
 
 ### Environment
 
