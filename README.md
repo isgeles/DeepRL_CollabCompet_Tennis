@@ -47,6 +47,7 @@ The observation space consists of 24 dimensions corresponding to the position an
  - copy
  - matplotlib
  - numpy
+ - pandas 
  - random
  - torch
  - unityagents
